@@ -16,7 +16,7 @@
 
 >静态图
 
-![主页JPG](./img/home.jpg)
+![主页JPG](./img/home.png)
 
 >动态图
 
