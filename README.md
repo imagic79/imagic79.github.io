@@ -16,11 +16,11 @@
 
 >静态图
 
-![主页JPG](./assets/img/home.jpg)
+![主页JPG](./img/home.jpg)
 
 >动态图
 
-![主页GIF](./assets/img/home.gif)
+![主页GIF](./img/home.gif)
 
 ### 注
 
@@ -47,7 +47,4 @@
   - 发布 NPM 包，使用 UNPKG 作为资源文件的 CDN 
 
 
-### Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=dmego/home.github.io&type=Date)](https://star-history.com/#dmego/home.github.io&Date)
 
